@@ -1,4 +1,4 @@
 Guides.co
 =========
 
-The Re-Design
+This project will contain the files for the Guides.co site relaunch.
